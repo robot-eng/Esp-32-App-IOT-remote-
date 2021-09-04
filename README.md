@@ -8,5 +8,5 @@
 
 - circuit connection
 <p align="center">
-<img src="APP_IOT_fire/connection.png" width="280" height="500">
+<img src="APP_IOT_fire/connection.png" width="380" height="380">
 </p>
