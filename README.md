@@ -1,5 +1,5 @@
 # Esp-32
-#### APP_IOT_fire 
+#### APP_IOT_fire (เปิดปิดไฟระยะไกล เเละดูอุณภูมิระยะไกล โดยใช้ไวฟายคนละตัว-เเต่บอร์ดต้องมีไวฟายของมันเอง)
 - Build App use https://appinventor.mit.edu/
 ##### GUI
 <p align="center">
