@@ -6,9 +6,7 @@
 <img src="APP_IOT_fire/img/s.png" >
 </p>
 ##### Block
-<p align="center">
-<img src="APP_IOT_fire/img/block.png">
-</p>
+
 ##### URL
 <p align="center">
 <img src="APP_IOT_fire/img/URL.png" >
