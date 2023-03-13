@@ -26,7 +26,7 @@
 <img src="APP_IOT_fire/img/firebase.png">
 </p>
 
-- Example : https://www.youtube.com/watch?v=3RPJtL2rnXc Example of connecting blocks
+- Example : Usage Examples
 <p align="center">
 <img src="APP_IOT_fire/img/esp.gif" width="280" height="500">
 </p>
